@@ -1,0 +1,19 @@
+{
+  "name": "react-blog",
+  "version": "1.0.0",
+  "description": "a simple react blog app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/junxianlim/react-blog.git"
+  },
+  "author": "lim jun xian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/junxianlim/react-blog/issues"
+  },
+  "homepage": "https://gitlab.com/junxianlim/react-blog#README"
+}
